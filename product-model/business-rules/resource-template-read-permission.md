@@ -116,4 +116,4 @@
 
 # Only people its visibility admits read or use a resource template
 
-An resource template is read, and used to create entries, by its owner and whoever its Visibility admits, on the same levels as an entry.
+A resource template is read, and used to create entries, by its owner and whoever its Visibility admits, on the same levels as an entry.

@@ -148,9 +148,9 @@
 }
 ---
 
-# Only people its write permission admits change a experiment
+# Only people its write permission admits change an experiment
 
-A experiment is changed by its owner and by whoever its Can write setting admits, on the same levels as Visibility, with an Admin of its team admitted at every level but “Only owner”. While it is locked, only the person who locked it and Admins may change it.
+An experiment is changed by its owner and by whoever its Can write setting admits, on the same levels as Visibility, with an Admin of its team admitted at every level but “Only owner”. While it is locked, only the person who locked it and Admins may change it.
 
 ## Rationale
 

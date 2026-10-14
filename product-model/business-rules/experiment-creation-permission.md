@@ -75,6 +75,6 @@
 }
 ---
 
-# Members create a experiment only while their team allows it; Admins always may
+# Members create an experiment only while their team allows it; Admins always may
 
-A experiment is created in the team its creator is signed in to. Members who are not Admins can create one, including by duplicating, only while the team's “Allow users to create experiments” setting is on.
+An experiment is created in the team its creator is signed in to. Members who are not Admins can create one, including by duplicating, only while the team's “Allow users to create experiments” setting is on.

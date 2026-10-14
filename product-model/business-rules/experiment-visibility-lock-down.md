@@ -61,6 +61,6 @@
 }
 ---
 
-# Only an Admin changes the visibility of a experiment whose visibility is locked down
+# Only an Admin changes the visibility of an experiment whose visibility is locked down
 
-A template can lock down the Visibility of the entries created from it; on such a experiment, members cannot change it and Admins still can.
+A template can lock down the Visibility of the entries created from it; on such an experiment, members cannot change it and Admins still can.

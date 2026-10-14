@@ -51,6 +51,6 @@
 }
 ---
 
-# Only an Admin of its team or a Sysadmin transfers a experiment to a new owner
+# Only an Admin of its team or a Sysadmin transfers an experiment to a new owner
 
-Owning a experiment is not enough to hand it over: transferring it to another member, or to another team, takes an Admin of the team it belongs to or a Sysadmin. The new owner must belong to the destination team.
+Owning an experiment is not enough to hand it over: transferring it to another member, or to another team, takes an Admin of the team it belongs to or a Sysadmin. The new owner must belong to the destination team.

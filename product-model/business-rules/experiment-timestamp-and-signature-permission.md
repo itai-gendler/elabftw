@@ -125,6 +125,6 @@
 }
 ---
 
-# Anyone who can read a experiment timestamps or signs it
+# Anyone who can read an experiment timestamps or signs it
 
-Timestamping and signing record facts about a experiment without changing its content, so read access is enough: a reader without write access, even on a locked experiment, can timestamp or sign it.
+Timestamping and signing record facts about an experiment without changing its content, so read access is enough: a reader without write access, even on a locked experiment, can timestamp or sign it.

@@ -56,6 +56,6 @@
 }
 ---
 
-# Only an Admin changes who can write a experiment whose write permission is locked down
+# Only an Admin changes who can write an experiment whose write permission is locked down
 
-A template can lock down the Can write setting of the entries created from it; on such a experiment, members cannot change it and Admins still can.
+A template can lock down the Can write setting of the entries created from it; on such an experiment, members cannot change it and Admins still can.

@@ -117,6 +117,6 @@
 }
 ---
 
-# Only people its write permission admits change an resource template
+# Only people its write permission admits change a resource template
 
-An resource template is changed by its owner and whoever its Can write setting admits; changes apply to entries created afterwards, never to existing ones.
+A resource template is changed by its owner and whoever its Can write setting admits; changes apply to entries created afterwards, never to existing ones.
